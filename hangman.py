@@ -1,11 +1,4 @@
-# Hangman 
-
-# Attemps *Done*
-# Word to Guess *Done*
-# Input to Pick Letter *Done*
-# Place to store Attempts *Done*
-# Display Broken Word *Done*
-# Logic To Control Attemps *Done* 
+# Hangman
 
 import random
 
